@@ -1,1 +1,1 @@
-A simple landing page using HTML and CSS
+A simple landing page created for a international travel agency using HTML and CSS.
